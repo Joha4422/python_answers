@@ -1,1 +1,1 @@
-# python_answers
+# Ushbu repositoriesda pythonga oid kodlar joylangan.
